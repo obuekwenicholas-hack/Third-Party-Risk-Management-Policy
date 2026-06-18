@@ -274,27 +274,7 @@ This project strengthened my understanding of how GRC teams manage third-party r
 
 Assessed six third-party vendors across five security domains using a structured vendor risk questionnaire, classified vendors into four risk tiers, identified control gaps, and developed risk treatment plans to support HIPAA-aware vendor governance for a simulated healthcare SaaS environment.
 
-## Repository Structure
 
-```text
-TPRM-MedCore-Health/
-│
-├── README.md
-├── TPRM_Policy_MedCore_Health.pdf
-├── Vendor_Risk_Assessment.xlsx
-│
-├── screenshots/
-│   ├── vendor_inventory.png
-│   ├── risk_questionnaire.png
-│   ├── risk_scoring.png
-│   ├── risk_treatment_plan.png
-│   ├── review_schedule.png
-│   └── tprm_policy.png
-│
-└── documentation/
-    ├── methodology_summary.md
-    └── project_notes.md
-```
 
 ## Disclaimer
 
